@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# tanaobra_solidus
+Projeto E-commerce 
+>>>>>>> 763455378c3267fb652d719ab10000afa0f7dc68
