@@ -5,10 +5,10 @@ Spree.config do |config|
   # Core:
 
   # Default currency for new sites
-  config.currency = "USD"
+  config.currency = "BRL"
 
   # from address for transactional emails
-  config.mails_from = "store@example.com"
+  config.mails_from = "contato@tanaobra.app"
 
   # Uncomment to stop tracking inventory levels in the application
   # config.track_inventory_levels = false
@@ -61,11 +61,11 @@ Spree.config do |config|
 end
 
 Spree::Frontend::Config.configure do |config|
-  config.locale = 'en'
+  config.locale = 'pt-BR'
 end
 
 Spree::Backend::Config.configure do |config|
-  config.locale = 'en'
+  config.locale = 'pt-BR'
 
   # Uncomment and change the following configuration if you want to add
   # a new menu item:
